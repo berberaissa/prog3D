@@ -1,0 +1,3 @@
+/home/aissa/prog-3D-2023/template/build/CMakeFiles/tp.dir
+/home/aissa/prog-3D-2023/template/build/CMakeFiles/edit_cache.dir
+/home/aissa/prog-3D-2023/template/build/CMakeFiles/rebuild_cache.dir
